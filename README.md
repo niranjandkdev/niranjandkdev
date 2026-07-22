@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm Rahul Mahesh! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Niranjan D K! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
@@ -12,10 +12,10 @@
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and Flutter.
-- 👯 I’m looking to collaborate on Frontend-Web and Flutter projects.
+- 🌱 I’m currently learning java full-stack development.
+- 👯 I’m looking to collaborate on Frontend-Web.
 - 🤔 I’m looking for help with React.
-- 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
+- 💬 Ask me about Front-end Web Development, Any tech-related stuff.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
